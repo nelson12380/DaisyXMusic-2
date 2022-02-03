@@ -1,11 +1,11 @@
 <h1 align="centre">DAISYXMUSIC V4.0 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
-#### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
+#### POWERED BY [PYTGCALLS](https://github.com/nelson12380/pytgcalls)
 ### Available on telegram as [@DaisyXbot](https://t.me/daisyxbot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
+  <img src="https://telegra.ph/file/94b049928e16b3cb4a3a5.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
